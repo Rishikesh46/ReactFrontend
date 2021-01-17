@@ -1,0 +1,15 @@
+.mainIndex {
+  height: 600px;
+  /* background-position: center; */
+  background-image: url("../image/banner.jpg");
+  display: flex;
+  background-repeat: no-repeat;
+  flex-direction: column;
+  background-size: cover;
+}
+.indexh1 {
+  margin: 250px auto 0px;
+  text-align: center;
+  color: #eee;
+  font-size: 36px;
+}

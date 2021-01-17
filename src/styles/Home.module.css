@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+  margin-left: 10%;
+  width: 80%;
+  background: white;
+  margin-top: 100px;
+  margin-bottom: 200px;
+}
+.message {
+  color: black;
+  text-align: center;
+}
