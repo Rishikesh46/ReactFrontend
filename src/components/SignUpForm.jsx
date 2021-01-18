@@ -6,7 +6,7 @@ class SignUpForm extends Component {
     return (
       <div className={FormElementStyles.mainDiv}>
         <h1>SignUp here</h1>
-        <div className={FormElementStyles.elementContainer1}>
+        <div className={FormElementStyles.element1}>
           <div>
             <input
               type="text"
