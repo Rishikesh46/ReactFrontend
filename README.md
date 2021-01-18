@@ -11,6 +11,8 @@
 
 2. Install all dependencies with npm. i
 
+3. Also install react-router-dom 
+
 3. For running write : npm run start.
 
 # DEMO Link
