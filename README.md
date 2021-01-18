@@ -1,3 +1,16 @@
+# Introduction
+
+- Created a Login React Application with Backend enpoints.
+- It consist of Home , SignUp, Login.
+
+## How to start
+
+1. on terminal write : git clone
+Install all dependencies with npm i
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
