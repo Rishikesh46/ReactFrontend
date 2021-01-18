@@ -2,14 +2,20 @@
 
 - Created a Login React Application with Backend enpoints.
 - It consist of Home , SignUp, Login.
+- Displays dummy component on succesfull login
+- Gives error on incorrect password.
 
 ## How to start
 
-1. on terminal write : git clone
-Install all dependencies with npm i
+1. On Terminal write : git clone
 
+2. Install all dependencies with npm. i
 
+3.For running write : npm run start.
 
+# DEMO Link
+
+https://react-frontend-nine.vercel.app/
 
 # Getting Started with Create React App
 
