@@ -6,7 +6,7 @@ class Index extends Component {
   render() {
     return (
       <div className={indexStyle.mainIndex}>
-        <h1 className={indexStyle.indexh1}>First Time Here.. Please SignUp</h1>
+        <h1 className={indexStyle.indexh1}>React Login SignUp</h1>
       </div>
     );
   }
