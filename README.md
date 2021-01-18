@@ -7,11 +7,11 @@
 
 ## How to start
 
-1. On Terminal write : git clone
+1. On Terminal write : git clone https://github.com/Rishikesh46/ReactFrontend.git
 
 2. Install all dependencies with npm. i
 
-3.For running write : npm run start.
+3. For running write : npm run start.
 
 # DEMO Link
 
